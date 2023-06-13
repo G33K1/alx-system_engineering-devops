@@ -1,2 +1,2 @@
 #!/bin/bash
-alias PATH="pwd + /action"
+alias PATH='echo"($pwd + /action)"'
