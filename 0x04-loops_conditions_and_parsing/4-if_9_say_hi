@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-
 # Displays "Best School" 10 times using while loop.
-
 # On 9th iteration, display "Hi" instead of "Best school".
 
 count=0
